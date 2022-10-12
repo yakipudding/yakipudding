@@ -1,6 +1,6 @@
 # yakipudding
 ## キャリアやスキルなど
-- https://note.com/yaki_pudding/n/n3db33c7b59d3
+https://note.com/yaki_pudding/n/n3db33c7b59d3
 
 ## 登壇イベント
 https://mokuteku.connpass.com/event/253582/
